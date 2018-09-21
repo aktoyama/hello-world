@@ -1,4 +1,5 @@
 # hello-world
-Hello Hello
+Good Bye WORLD!!!!
 
 I am learning to use GitHub...
+I am leaving.
